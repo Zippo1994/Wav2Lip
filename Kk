@@ -1,0 +1,1 @@
+python inference.py --checkpoint_path checkpoints/wav2lip_gan.pth --face "D71F1544-99E2-4D1F-8C80-1AEBA05258DC.png" --audio "extracted_audio.wav"
